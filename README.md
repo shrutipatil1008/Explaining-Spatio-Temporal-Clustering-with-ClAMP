@@ -33,6 +33,8 @@ The project follows the four-phase ClAMP process:
 - Python (pandas, scikit-learn, alibi, matplotlib)
 - PostgreSQL (pgAdmin) for data retrieval
 - XGBoost for classification
+- HeaRTDroid & HMR+ for rule inference
+- OpenStreetMap for visualizations
 
 📈 Key Insights
 - ClAMP’s modular design enables explainable clustering across domains.
@@ -44,6 +46,4 @@ The project follows the four-phase ClAMP process:
 - Integrate visual dashboards for interactive rule inspection.
 - Apply the approach to other domains like urban planning or environmental monitoring.
 
-HeaRTDroid & HMR+ for rule inference
 
-OpenStreetMap for visualizations
