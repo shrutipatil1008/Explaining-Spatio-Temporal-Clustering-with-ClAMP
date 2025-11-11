@@ -19,10 +19,10 @@ The project follows the four-phase ClAMP process:
 4. Rule Generation: Creating interpretable if-then rules with the Anchor Explainer and validating them using HeaRTDroid.
 
 📊 Dataset
-Source: Hofer LandBus (Germany)
-Records: ~63,000 rides
-Features: Start & end locations, timestamps, derived temporal variables (duration, frequency)
-Spatial Reference: EPSG:3035 (ETRS-LAEA Europe)
+1. Source: Hofer LandBus (Germany)
+2. Records: ~63,000 rides
+3. Features: Start & end locations, timestamps, derived temporal variables (duration, frequency)
+4. Spatial Reference: EPSG:3035 (ETRS-LAEA Europe)
 
 🧮 Results Summary
 - High-quality rule generation for top-performing clusters (F1 up to 0.88).
