@@ -107,8 +107,6 @@ pip install -r requirements.txt
 │   └── 04_rule_generation_evaluation.ipynb
 ├── data/
 │   └── README.md               ← Data schema & access info
-├── results/
-│   └── README.md               ← Output file index
 ├── requirements.txt
 ├── .gitignore
 └── README.md
